@@ -29,7 +29,7 @@ By dissecting and comparing **4 different types of charts**, the report demonstr
 **🎯 Problem:**  
 The use of a 3D bar chart introduces visual distortion. Perspective and shadows make some bars appear taller or shorter than they really are, reducing the integrity of the data.
 
-**✅ Better Approach:**  
+** Better Approach:**  
 Switch to a clean 2D bar chart. This preserves the clarity of comparisons while removing distracting aesthetics. Focus on honest representation, not decoration.
 
 </details>
@@ -42,7 +42,7 @@ Switch to a clean 2D bar chart. This preserves the clarity of comparisons while 
 **⚠️ Problem:**  
 This pie chart misleads by totaling 178% — a conceptual failure, since pie charts should represent parts of a whole. It fails to handle overlapping categories properly.
 
-**✅ Better Approach:**  
+**Better Approach:**  
 Use a Venn diagram or grouped bar chart to show category overlap without inflating total values. This ensures logical accuracy and viewer trust.
 
 </details>
@@ -55,7 +55,7 @@ Use a Venn diagram or grouped bar chart to show category overlap without inflati
 **📉 Problem:**  
 The spiral format is visually eye-catching but analytically confusing. Overlapping lines and nonlinear scales make trends hard to follow or compare.
 
-**✅ Better Approach:**  
+**Better Approach:**  
 Separate country data into small multiples (side-by-side mini line charts). This allows better cross-country comparison and highlights trends over time more effectively.
 
 </details>
@@ -68,7 +68,7 @@ Separate country data into small multiples (side-by-side mini line charts). This
 **🔍 Problem:**  
 The dot-based design suffers from inconsistent marker sizing and color gradients that obscure the actual values. It sacrifices accuracy for aesthetics.
 
-**✅ Better Approach:**  
+**Better Approach:**  
 Replace with consistent-sized scatter plots or line graphs using minimal styling. Keep it simple to help the audience stay focused on the actual job trend shifts.
 
 </details>
