@@ -29,7 +29,7 @@ By dissecting and comparing **4 different types of charts**, the report demonstr
 **🎯 Problem:**  
 The use of a 3D bar chart introduces visual distortion. Perspective and shadows make some bars appear taller or shorter than they really are, reducing the integrity of the data.
 
-** Better Approach:**  
+**Better Approach:**  
 Switch to a clean 2D bar chart. This preserves the clarity of comparisons while removing distracting aesthetics. Focus on honest representation, not decoration.
 
 </details>
