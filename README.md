@@ -40,7 +40,7 @@ Switch to a clean 2D bar chart. This preserves the clarity of comparisons while 
 <summary><strong>2. Overlapping Pie Chart (178%)</strong> 🥧</summary>
 
 **⚠️ Problem:**  
-This pie chart misleads by totaling 178% — a conceptual failure, since pie charts should represent parts of a whole. It fails to handle overlapping categories properly.
+This pie chart misleads by totaling 178% a conceptual failure, since pie charts should represent parts of a whole. It fails to handle overlapping categories properly.
 
 **Better Approach:**  
 Use a Venn diagram or grouped bar chart to show category overlap without inflating total values. This ensures logical accuracy and viewer trust.
