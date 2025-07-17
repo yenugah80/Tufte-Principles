@@ -1,24 +1,23 @@
-  📊 Tufte Inspired Data Visualization Case Study
+# 📊 Tufte Inspired Data Visualization Case Study
 
-[![Graph Types: Bar, Pie, Spiral, Scatter](https://img.shields.io/badge/Graphs Bar%2C%20Pie%2C%20Spiral%2C%20Scatter brightgreen)](https://github.com/)
-[![Design Critique](https://img.shields.io/badge/Focus Design%20Critique blue)](https://github.com/)
-[![Tufte Principles](https://img.shields.io/badge/Tufte%20Principles Applied success)](https://github.com/)
-[![Visualization Quality](https://img.shields.io/badge/Improved%20Visuals Yes ff69b4)](https://github.com/)
+[![Graph Types: Bar, Pie, Spiral, Scatter](https://img.shields.io/badge/Graphs-Bar%2C%20Pie%2C%20Spiral%2C%20Scatter-brightgreen)](#)
+[![Design Critique](https://img.shields.io/badge/Focus-Design%20Critique-blue)](#)
+[![Tufte Principles](https://img.shields.io/badge/Tufte%20Principles-Applied-success)](#)
+[![Visualization Quality](https://img.shields.io/badge/Improved%20Visuals-Yes-ff69b4)](#)
 
+---
 
-   📘 Overview
+## 🧭 Overview
 
-This project is a comprehensive **Tufte Case Study Report** that critiques real world data visualizations using **Edward Tufte’s five core principles**:
+This project is a comprehensive **Tufte Case Study Report** that critiques real-world data visualizations using **Edward Tufte’s five core principles**:
 
-  🧮 Graphical Integrity  
-  🖋️ Data Ink Ratio  
-  🚫 Chartjunk  
-  📈 Data Density  
-  🧩 Small Multiples  
+- 📏 **Graphical Integrity**
+- ✍️ **Data Ink Ratio**
+- 🚫 **Chartjunk**
+- 📊 **Data Density**
+- 🧩 **Small Multiples**
 
-By dissecting and comparing **4 different types of charts**, the report demonstrates how visualizations can mislead or clarify depending on their design.
-
-   
+By dissecting and comparing **4 different types of charts**, the report demonstrates how visualizations can mislead or clarify depending on their design.   
 
    📌 Evaluated Graphs
 
