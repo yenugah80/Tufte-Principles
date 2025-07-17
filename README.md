@@ -19,40 +19,56 @@ This project is a comprehensive **Tufte Case Study Report** that critiques real-
 
 By dissecting and comparing **4 different types of charts**, the report demonstrates how visualizations can mislead or clarify depending on their design.   
 
-   📌 Evaluated Graphs
+ ## 📌 Evaluated Graphs (Interactive Review)
 
-    1. **CpG Island Hypermethylation – 3D Bar Chart**
-📉 _Issue: Distorted data through unnecessary 3D rendering_  
-✅ **Recommendation**: Use 2D bar charts to ensure integrity and reduce visual noise.
+---
 
-   
+<details>
+<summary><strong>1. CpG Island Hypermethylation – 3D Bar Chart</strong> 📊</summary>
 
-    2. **Overlapping Pie Chart (178%)**
-🥧 _Issue: Misleading percentages & poor category distinction_  
-✅ **Recommendation**: Replace with Venn diagrams or stacked bar charts to reflect overlaps accurately.
+**🎯 Problem:**  
+The use of a 3D bar chart introduces visual distortion. Perspective and shadows make some bars appear taller or shorter than they really are, reducing the integrity of the data.
 
-   
+**✅ Better Approach:**  
+Switch to a clean 2D bar chart. This preserves the clarity of comparisons while removing distracting aesthetics. Focus on honest representation, not decoration.
 
-    3. **COVID 19 Death Spiral Chart**
-🌪️ _Issue: Spiral format distorts trend visibility and comparative clarity_  
-✅ **Recommendation**: Use line charts and small multiples for trend clarity.
+</details>
 
-   
+---
 
-    4. **Employment Trends with Dots**
-⚪ _Issue: Inconsistent dot sizes and gradients hide numeric clarity_  
-✅ **Recommendation**: Use scatter plots or consistent line graphs with minimalistic design.
+<details>
+<summary><strong>2. Overlapping Pie Chart (178%)</strong> 🥧</summary>
 
-   
+**⚠️ Problem:**  
+This pie chart misleads by totaling 178% — a conceptual failure, since pie charts should represent parts of a whole. It fails to handle overlapping categories properly.
 
-   🔍 Key Takeaways
+**✅ Better Approach:**  
+Use a Venn diagram or grouped bar chart to show category overlap without inflating total values. This ensures logical accuracy and viewer trust.
 
-✔️ Tufte’s principles help maintain data honesty and reader trust  
-✔️ Over decorated charts harm comprehension  
-✔️ Simpler, clearer designs improve insight and usability  
-✔️ Small multiples enable better comparison
+</details>
 
-   
+---
 
-   📂 File Structure
+<details>
+<summary><strong>3. COVID-19 Death Spiral Chart</strong> 🌀</summary>
 
+**📉 Problem:**  
+The spiral format is visually eye-catching but analytically confusing. Overlapping lines and nonlinear scales make trends hard to follow or compare.
+
+**✅ Better Approach:**  
+Separate country data into small multiples (side-by-side mini line charts). This allows better cross-country comparison and highlights trends over time more effectively.
+
+</details>
+
+---
+
+<details>
+<summary><strong>4. Employment Trends with Dots</strong> 🔘</summary>
+
+**🔍 Problem:**  
+The dot-based design suffers from inconsistent marker sizing and color gradients that obscure the actual values. It sacrifices accuracy for aesthetics.
+
+**✅ Better Approach:**  
+Replace with consistent-sized scatter plots or line graphs using minimal styling. Keep it simple to help the audience stay focused on the actual job trend shifts.
+
+</details>
